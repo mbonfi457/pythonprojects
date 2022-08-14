@@ -1,0 +1,3 @@
+# pythonprojects
+Home to various python projects as I learn the language and advance my skills
+Nothing more...nothing less...
